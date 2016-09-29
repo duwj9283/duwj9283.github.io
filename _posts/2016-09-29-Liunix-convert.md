@@ -30,7 +30,7 @@ $ java -version
 > 链接: http://pan.baidu.com/s/1kVGwa5T 密码: `rn4h`
 
 ###服务配置
-
+- **jar包及数据库移动到`/alidata/lib`文件夹下**
 ```
 $ vim /etc/systemd/system/convert-java.service
 {
