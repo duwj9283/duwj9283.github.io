@@ -36,10 +36,13 @@ $(document).ready(function(){
   });
   
   {% if page.type == 'post' && site.close_aside %}
-        getSize();
-        if (myWidth < 1024) {
-          c.click();
-        }
+//        getSize();
+//        if (myWidth < 1024) {
+//          c.click();
+//        }
+        a.addClass('fadeOut').css('display', 'none');
+        o.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');
   {% endif %}
   
   $(window).resize(function(){
