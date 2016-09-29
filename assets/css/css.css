@@ -63,7 +63,7 @@
 .bg4{height: auto;line-height: 27px;font-weight: bold;padding-left: 0px;color: #000000;font-size: 12px;background-color:#FCE8D5;padding-left: 10px;}
 
 
-.f22{font-size:22px !important;font-weight:bold !important;line-height:42px !important;padding-left:10px !important;}
+.f22{font-size:22px;font-weight:bold;line-height:42px;padding-left:10px;}
 .jieshao{font-weight:bold;padding-bottom:22px;padding-left:10px;}
 a.zhengshu{color:#3666e0;text-decoration:underline;margin-left:13px;}
 a.zhengshucs{color:#ed8219;text-decoration:underline;margin-left:13px;}
