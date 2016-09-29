@@ -62,9 +62,9 @@ $ systemctl start convert-java
 
 ###注意事项
 
-- **httpd服务用`systemctl`自身的`httpd`**
+- **httpd服务用`systemctl`自身的httpd**
 
->手动编译的`apache` 跟服务器的`httpd`可能路径配置不同，需要把服务器的`httpd`改成手动编译的`httpd`
+>手动编译的`apache` 跟服务器的`httpd`可能路径配置不同，需要把服务器的`httpd`改成手动编译的httpd
 
 ```
 $ vim /etc/systemd/system/httpd.service
