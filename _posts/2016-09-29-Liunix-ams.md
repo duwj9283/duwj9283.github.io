@@ -35,3 +35,6 @@ $ rm -r /tmp/AdobeMediaServer5_x64
 ##注意事项
 - **centos 7.0以下适用**
 > centos 7.0一下不支持 `systemctl` ，改成 `service ams restart`
+
+- **Q：我在配置文件中给某一项设置了值，但为什么总是看不到效果啊？**
+>`_config.yml`文件中的每个属性值前面必须留一个空格，建议在 Sublime/Notepad++ 中开启显示所有空格模式。另每篇文章的 `front-matter` 也要注意这个问题。
