@@ -44,6 +44,7 @@ VOD_DIR = /home/debian/www/upload
 ```
 
 - **重启 ams 服务生效**
+
 ```
 $ sudo /etc/init.d/ams restart
 ```
