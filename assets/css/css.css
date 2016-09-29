@@ -2,9 +2,9 @@
 img{border:0}
 p{margin:0}
 body{font-size:12px;color:#414040;line-height:22px;}
-h1{margin:0;font-size:14px;height:40px;background-image:url(images/bg3.gif);line-height:40px;color:#ffffff;text-align:center}
-h2{margin:0;font-size:14px;height:40px;background-image:url(images/bg3c.gif);line-height:40px;color:#ffffff;text-align:center}
-h3{margin:0;font-size:14px;height:40px;background-image:url(images/bg3l.gif);line-height:40px;color:#ffffff;text-align:center}
+h1{margin:0;font-size:14px;height:40px;line-height:40px;color:#ffffff;text-align:center}
+h2{margin:0;font-size:14px;height:40px;line-height:40px;color:#ffffff;text-align:center}
+h3{margin:0;font-size:14px;height:40px;line-height:40px;color:#ffffff;text-align:center}
 .whitespace{white-space:nowrap;overflow:hidden}
 .clear{clear:both; height:0px; overflow:hidden;}
 .w758{width:758px;margin:auto;}
@@ -21,7 +21,7 @@ h3{margin:0;font-size:14px;height:40px;background-image:url(images/bg3l.gif);lin
 .w98cs{width:98px;height:118px;background-color:#f9d2ac;margin:auto;margin-top:5px;overflow:hidden}
 .w370{width:360px;padding-left:10px;}
 .w220{width:220px}
-.w795bj{width:795px;background-image:url(images/bg1shu.gif);margin:0 auto;padding-bottom:23px;}
+.w795bj{width:795px;margin:0 auto;padding-bottom:23px;}
 .w215{width:215px}
 .w110{width:110px;}
 .w80{width:80px;}
@@ -62,26 +62,17 @@ h3{margin:0;font-size:14px;height:40px;background-image:url(images/bg3l.gif);lin
 .db1{display:block}
 .floatr{float:right}
 .floatl{float:left}
-.logo{background:url(images/logo.png);width:98px;height:31px;margin-top:20px;}
-.bg{background:url(images/bg.gif);margin-top:10px;}
-.bgcs{background:url(images/bgcs.gif);margin-top:10px;}
-.bgls{background:url(images/bgls.gif);margin-top:10px;}
-.bg1{background:url(images/bg1.gif);height:27px;line-height:27px;font-weight:bold;padding-left:10px;color:#000000}
+.bg{background:url(https://duwj9283.github.io/assets/img/bg.gif);margin-top:10px;}
 .bg2{background-color:#e3eefa;height:27px;line-height:27px;font-weight:bold;padding-left:10px;color:#000000;font-size:12px;}
 .bg3{height: auto;line-height: 27px;font-weight: bold;padding-left: 0px;color: #000000;font-size: 12px;background-color:#E5FFD1;padding-left: 10px;}
 .bg4{height: auto;line-height: 27px;font-weight: bold;padding-left: 0px;color: #000000;font-size: 12px;background-color:#FCE8D5;padding-left: 10px;}
 
-.bg1cs{background:url(images/bg1cs.gif);height:27px;line-height:27px;font-weight:bold;padding-left:15px;color:#000000}
-.bg1csc{background:url(images/bg1csc.gif);height:27px;line-height:27px;font-weight:bold;padding-left:15px;color:#000000}
-.bg1ls{background:url(images/bg1ls.gif);height:30px;line-height:30px;font-weight:bold;padding-left:15px;color:#000000}
-.bg1lsc{background:url(images/bg1lsl.gif);height:30px;line-height:30px;font-weight:bold;padding-left:15px;color:#000000}
+
 .f22{font-size:22px;font-weight:bold;line-height:42px;padding-left:10px;}
 .jieshao{font-weight:bold;padding-bottom:22px;padding-left:10px;}
 a.zhengshu{color:#3666e0;text-decoration:underline;margin-left:13px;}
 a.zhengshucs{color:#ed8219;text-decoration:underline;margin-left:13px;}
 .bold{font-weight:bold}
-.blue{color:#004ea2;text-align:left;padding-left:30px;background-image:url(images/bg2.gif);height:30px;line-height:30px;}
-.chengse{color:#e15d04;text-align:left;padding-left:30px;background-image:url(images/bg2cs.gif);height:30px;line-height:30px;}
 .col{background-color:#f3f8fe}
 .colcs{background-color:#fdf8f3}
 .w400 a{background-color:#004ea2;border:1px solid #012c9b;width:85px;height:28px;display:inline-block;line-height:28px;text-decoration:none;color:#fff;text-align:center;margin-right:5px;}
@@ -90,7 +81,6 @@ a.zhengshucs{color:#ed8219;text-decoration:underline;margin-left:13px;}
 .w400shu a{background-color:#ed8219;border:1px solid #c8600d;width:85px;height:28px;display:inline-block;line-height:28px;text-decoration:none;color:#fff;text-align:center;margin-right:5px;}
 .w400shu a.cs{background-color:#ed8219;border:1px solid #c8600d;width:85px;height:28px;display:inline-block;line-height:28px;text-decoration:none;color:#fff;text-align:center;margin-right:5px;}
 .w400shu a:hover{text-decoration:underline}
-.w150 li{list-style:none;height:33px;background-image:url(images/bg4.gif);}
 .w795{width:795px;margin:0 auto;}
 .w35{width:35px;height:3px;}
 .w35shu{width:35px;}
@@ -100,7 +90,6 @@ a.zhengshucs{color:#ed8219;text-decoration:underline;margin-left:13px;}
 .w35shu span.shu3{display:inline-block;width:35px;color:#ffffff;text-align:center;padding:90px 0 0 0px;}
 .w150 li a{font-size:13px;color:#333333;text-decoration:none}
 .w150 li a:hover{text-decoration:underline}
-.w150 span{background-image:url(images/btn.gif);width:20px;height:14px;margin:10px 10px 0 18px;display:inline-block}
 span.anin{background-position: -9px -696px;}
 span.anms{background-position:-9px -669px;}
 span.anrc{background-position:-12px -201px;}
@@ -114,10 +103,7 @@ span.ansc{background-position:-12px -238px;}
 span.anjb{background-position:-12px -643px;}
 span.anfj{background-position:-12px -50px;}
 
-.b5c span{background-image:url(images/btnc.gif);width:20px;height:14px;margin:10px 10px 0 18px;display:inline-block}
-.b5c ul li{list-style:none;height:33px;background-image:url(images/bg4c.gif);}
-.b5l span{background-image:url(images/btnl.gif);width:20px;height:14px;margin:10px 10px 0 18px;display:inline-block}
-.b5l ul li{list-style:none;height:33px;background-image:url(images/bg4c.gif);}
+
 
 .button {BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "Verbigna", "Arial", "Helvetica", "sans-serif"; HEIGHT: 20px; BACKGROUND-COLOR: #ebeadb}
 .findcom {padding-left: 20px;cursor: pointer;text-decoration: underline;}
@@ -127,20 +113,12 @@ span.anfj{background-position:-12px -50px;}
     width: 49px;
     height: 16px;
     display: inline-block;
-    background-image: url(/static/v2/images/yyz.png);
+    background-image: url(https://duwj9283.github.io/assets/img/yyz.png);
     background-repeat: no-repeat;
     _background-image: none; /* IE6 */
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/v2/images/yyz.png'); /* IE6 */
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://duwj9283.github.io/assets/img/yyz.png'); /* IE6 */
 }
-.mobileUnChecked {
-    width: 49px;
-    height: 16px;
-    display: inline-block;
-    background-image: url(/static/v2/images/wyz.png);
-    background-repeat: no-repeat;
-    _background-image: none; /* IE6 */
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/v2/images/wyz.png'); /* IE6 */
-}
+
 #downPdfWord {margin-left: 35px; line-height: 25px;}
 #downPdfWord a {font-size: 12px; color: #3666e0; text-decoration: underline;}
 
@@ -152,10 +130,10 @@ span.anfj{background-position:-12px -50px;}
     margin-left: 10px;
     width: 49px;
     height: 16px;
-    background-image: url(/static/v2/images/yyz.png);
+    background-image: url(https://duwj9283.github.io/assets/img/yyz.png);
     background-repeat: no-repeat;
     _background-image: none; /* IE6 */
-    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/static/v2/images/yyz.png'); /* IE6 */
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://duwj9283.github.io/assets/img/yyz.png'); /* IE6 */
 }
 
 @-moz-document url-prefix(){.mobile_yyz{top: -12px;}}
