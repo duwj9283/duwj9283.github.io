@@ -3,7 +3,7 @@ layout: post
 title: centos7.2下安装ams
 tags:
 - centos
-- ams | fms
+- fms
 categories: linux
 description: centos7.2下安装ams，支持rtmp的点播和推流直播
 ---
