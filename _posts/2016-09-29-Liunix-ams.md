@@ -33,6 +33,21 @@ $ sudo systemctl enable ams
 $ rm -r /tmp/AMS_5_0_10_r1021
 ```
 
+- **目录配置**
+
+>修改 `/opt/adobe/ams/conf/ams.ini` 文件中下面两行到文件上传目录
+
+```
+VOD_COMMON_DIR = /home/debian/www/upload
+
+VOD_DIR = /home/debian/www/upload
+```
+
+- **重启 ams 服务生效**
+```
+$ sudo /etc/init.d/ams restart
+```
+
 ##注意事项
 - **centos 7.0以下适用**
 
