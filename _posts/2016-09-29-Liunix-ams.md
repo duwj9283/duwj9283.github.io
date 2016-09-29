@@ -23,13 +23,13 @@ centos7.2下安装ams，支持rtmp的点播和推流直播
 ```
 $ tar xvf AdobeMediaServer5_x64.tar.gz -C /tmp/
 
-$ cd /tmp/AdobeMediaServer5_x64 && sudo ./installAMS
+$ cd /tmp/AMS_5_0_10_r1021 && sudo ./installAMS
 
 ####注：用户选择httpd进程的用户www；组也是www(不安装AMS内置的apache，apache选择n)
 
 $ sudo systemctl enable ams
 
-$ rm -r /tmp/AdobeMediaServer5_x64
+$ rm -r /tmp/AMS_5_0_10_r1021
 ```
 
 ##注意事项
