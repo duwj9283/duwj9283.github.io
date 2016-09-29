@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : 杜文军
+tagline: 服务器配置、网站代码解决方案技术文档
 
 defaults:
   -
