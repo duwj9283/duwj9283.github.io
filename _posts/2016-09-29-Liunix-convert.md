@@ -60,7 +60,7 @@ $ systemctl start convert-java
 ```
 
 ###注意事项
-- **httpd服务用systemctl自身的http**
+- **httpd服务用`systemctl`自身的`httpd`**
 
 ```
 $ vim /etc/systemd/system/httpd.service
