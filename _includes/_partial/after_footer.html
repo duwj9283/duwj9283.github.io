@@ -37,14 +37,14 @@ $(document).ready(function(){
   
   {% if page.type == 'post' && site.close_aside %}
         getSize();
-        if (myWidth >= 980) {
+        if (myWidth < 1024) {
           c.click();
         }
   {% endif %}
   
   $(window).resize(function(){
     getSize(); 
-    if (myWidth >= 980) {
+    if (myWidth >= 1024) {
       $('header nav').removeClass('shownav');
     }else{
       m.removeClass('moveMain');
