@@ -34,4 +34,6 @@ $ rm -r /tmp/AMS_5_0_10_r1021
 
 ##注意事项
 - **centos 7.0以下适用**
-> centos 7.0一下不支持 `systemctl` ，改成 `service ams restart`
+>centos 7.0一下不支持 `systemctl` ，改成 `service ams restart`
+
+
