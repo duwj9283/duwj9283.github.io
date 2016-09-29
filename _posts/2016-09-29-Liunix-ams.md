@@ -17,7 +17,7 @@ centos7.2下安装ams，支持rtmp的点播和推流直播
 ```
 ##下载软件包
 - **百度网盘下载地址**
->http://pan.baidu.com/s/1i55AHxV   密码：7z6c
+> http://pan.baidu.com/s/1i55AHxV   密码：`7z6c`
 
 ##执行安装
 ```
@@ -34,4 +34,4 @@ $ rm -r /tmp/AdobeMediaServer5_x64
 
 ##注意事项
 - **centos 7.0以下适用**
->centos 7.0一下不支持 `systemctl` ，改成 `service ams restart`
+> centos 7.0一下不支持 `systemctl` ，改成 `service ams restart`
