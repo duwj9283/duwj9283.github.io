@@ -14,7 +14,7 @@ centos7.2下安装文档转换工具,实现word、ppt、pdf转换成jpg图片，
 ##安装java
 - **java下载地址**
 
->http://download.oracle.com/otn-pub/java/jdk/8u102-b14/jdk-8u102-linux-x64.rpm
+>http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 - **rmp包安装**
 
