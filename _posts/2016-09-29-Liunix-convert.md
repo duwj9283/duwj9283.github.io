@@ -78,9 +78,9 @@ $ vim /etc/systemd/system/httpd.service
     [Service]
     Type=forking
     #EnvironmentFile=/alidata/server/httpd/bin/envvars
-    ExecStart=/alidata/server/httpd/bin/apachectl start
-    ExecReload=/alidata/server/httpd/bin/apachectl graceful
-    ExecStop=/alidata/server/httpd/bin/apachectl graceful-stop
+    ExecStart=/alidata/server/httpd/bin/httpd -k start
+    ExecReload=/alidata/server/httpd/bin/httpd -k graceful
+    ExecStop=/alidata/server/httpd/bin/httpd -k graceful-stop
     # We want systemd to give httpd some time to finish gracefully, but still want
     # it to kill httpd after TimeoutStopSec if something went wrong during the
     # graceful stop. Normally, Systemd sends SIGTERM signal right after the
