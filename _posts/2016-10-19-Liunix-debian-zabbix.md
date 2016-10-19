@@ -55,6 +55,7 @@ $ systemctl restart zabbix-server
 - **设置zabbix网站**
 
 >在nginx配置中增加zabbix网站:`/usr/share/zabbix`
+
 ```
 $ cp /etc/nginx/sites-available/defaule /etc/nginx/sites-available/zabbix
 
@@ -93,12 +94,15 @@ $ systemctl reload nginx
 >运行网站
 
 >修改php配置
+
 ```
 $ vim /etc/php/7.0/fpm/php.ini
 ```
+
 >安装php扩展:`php-bcmath`
 
 >安装代理`zabbix-agent`
+
 ```
 $ apt-get install zabbix-agent
 ```
