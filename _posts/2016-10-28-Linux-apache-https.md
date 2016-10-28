@@ -36,7 +36,8 @@ $ acme.sh --renew  -d  www.***.com --ecc
 ```
 
 ##修改apache配置
-- ** 通过火狐的设置工具：`https://mozilla.github.io/server-side-tls/ssl-config-generator` **
+
+- **通过火狐的设置工具：`https://mozilla.github.io/server-side-tls/ssl-config-generator`**
 
 ```
 $ vim http.onfig
