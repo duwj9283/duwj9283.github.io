@@ -4,7 +4,7 @@ title: apache 下使用配置 https
 tags:
 - apache
 - https
-categories: linux
+categories: https
 description: apache 下使用配置 https 验证证书
 ---
 ##主题介绍
