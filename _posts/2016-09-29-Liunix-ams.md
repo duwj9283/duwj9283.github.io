@@ -20,7 +20,7 @@ centos7.2下安装ams，支持rtmp的点播和推流直播
 
 > http://pan.baidu.com/s/1i55AHxV   密码：`7z6c`
 
-##执行安装
+##执行安装（选择端口的时候选择1935,9283）
 ```
 $ tar xvf AdobeMediaServer5_x64.tar.gz -C /tmp/
 
